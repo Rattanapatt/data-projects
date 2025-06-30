@@ -10,4 +10,4 @@
 
 - <a href="https://public.tableau.com/views/Games-Sales/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Global Game Sales</a> : A Tableau visualization report of global game sales from 1980 to 2020, based on genres, platforms, and publishers.
 
-- <a href="https://public.tableau.com/shared/HCDMTCFHT?:display_count=n&:origin=viz_share_link">Walmart Sales</a> : A Tableau visualization report of sales for each Walmart store from 2010 to 2012.
+- <a href="[https://public.tableau.com/shared/HCDMTCFHT?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Walmart-Sales_17473789297260/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)">Walmart Sales</a> : A Tableau visualization report of sales for each Walmart store from 2010 to 2012.
